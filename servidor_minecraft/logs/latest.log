@@ -96,3 +96,39 @@ home/codespace/.python/current/bin/python "/workspaces/XJeampier/msx (1).py"<--[
 [20:32:11] [User Authenticator #4/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
 [20:32:12] [Server thread/INFO]: Johaanw joined the game
 [20:32:12] [Server thread/INFO]: Johaanw[/127.180.57.64:38693] logged in with entity id 11012 at ([world]-239.90856577001597, 69.0, -383.3618176000957)
+[20:33:03] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[20:33:04] [Server thread/INFO]: Johaanw left the game
+[20:33:41] [User Authenticator #5/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[20:33:41] [Server thread/INFO]: Johaanw joined the game
+[20:33:41] [Server thread/INFO]: Johaanw[/127.180.57.64:44933] logged in with entity id 11577 at ([world]-231.69999998807907, 78.0, -444.6240463353576)
+[20:33:43] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[20:33:43] [Server thread/INFO]: Johaanw left the game
+[20:34:10] [User Authenticator #5/INFO]: UUID of player Danxc is 14c156a1-a328-3b74-833b-a0a6ea9303bb
+[20:34:12] [Server thread/INFO]: Danxc joined the game
+[20:34:12] [Server thread/INFO]: Danxc[/127.145.30.200:34851] logged in with entity id 11690 at ([world]-34.5, 74.0, 40.5)
+[20:34:35] [Async Chat Thread - #3/INFO]: [Not Secure] <XJeampier> ./tpa XJeampier
+[20:34:46] [Async Chat Thread - #3/INFO]: [Not Secure] <XJeampier> ./tpa XJeampier
+[20:35:11] [Async Chat Thread - #3/INFO]: [Not Secure] <XJeampier> ./tpa XJeampier
+[20:35:26] [Server thread/INFO]: Danxc issued server command: /tpa XJeampier
+[20:35:31] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[20:36:10] [Async Chat Thread - #3/INFO]: [Not Secure] <XJeampier> ./skin (nombre)
+[20:36:43] [Server thread/INFO]: Danxc issued server command: /skin (pantera rosa)
+[20:37:13] [User Authenticator #6/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[20:37:14] [Server thread/INFO]: Johaanw joined the game
+[20:37:14] [Server thread/INFO]: Johaanw[/127.180.57.64:48135] logged in with entity id 12331 at ([world]-231.69999998807907, 78.0, -444.6240463353576)
+[20:37:31] [Async Chat Thread - #5/INFO]: [Not Secure] <XJeampier> ./skin rose
+[20:37:35] [Async Chat Thread - #5/INFO]: [Not Secure] <Johaanw> :v
+[20:37:41] [Server thread/INFO]: Danxc issued server command: /skin rose
+[20:38:13] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[20:38:13] [Server thread/INFO]: Johaanw left the game
+[20:39:00] [Server thread/INFO]: Danxc has made the advancement [Sweet Dreams]
+[20:39:02] [Server thread/INFO]: XJeampier lost connection: Disconnected
+[20:39:02] [Server thread/INFO]: XJeampier left the game
+[20:39:13] [User Authenticator #7/INFO]: UUID of player XJeampier is 076b2a99-8909-3132-af0c-67e9e041ac5e
+[20:39:14] [Server thread/INFO]: XJeampier joined the game
+[20:39:14] [Server thread/INFO]: XJeampier[/127.32.136.207:44209] logged in with entity id 13038 at ([world]-424.2041446601958, 64.0, -3210.093344614381)
+[20:39:42] [Server thread/INFO]: Danxc has made the advancement [Cover Me with Diamonds]
+[20:41:57] [Server thread/INFO]: XJeampier has made the advancement [Enchanter]
+[20:41:57] [User Authenticator #8/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[20:41:58] [Server thread/INFO]: Johaanw joined the game
+[20:41:58] [Server thread/INFO]: Johaanw[/127.180.57.64:39417] logged in with entity id 13427 at ([world]-313.56153620218686, 85.10131520987476, -354.30000001192093)
