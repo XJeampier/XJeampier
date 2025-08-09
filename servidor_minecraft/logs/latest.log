@@ -81,3 +81,18 @@ home/codespace/.python/current/bin/python "/workspaces/XJeampier/msx (1).py"<--[
 [19:57:13] [Async Chat Thread - #0/INFO]: [Not Secure] <Johaanw> esta lejois :v
 [20:08:10] [Server thread/INFO]: Johaanw lost connection: Disconnected
 [20:08:10] [Server thread/INFO]: Johaanw left the game
+[20:22:46] [User Authenticator #2/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[20:22:47] [Server thread/INFO]: Johaanw joined the game
+[20:22:47] [Server thread/INFO]: Johaanw[/127.180.57.64:38061] logged in with entity id 8431 at ([world]-382.53981037386467, 106.0, -297.5298617461714)
+[20:23:58] [Async Chat Thread - #1/INFO]: [Not Secure] <Johaanw> zzzzzzz
+[20:24:01] [Server thread/INFO]: XJeampier lost connection: Disconnected
+[20:24:01] [Server thread/INFO]: XJeampier left the game
+[20:24:01] [Async Chat Thread - #1/INFO]: [Not Secure] <Johaanw> WA
+[20:24:20] [User Authenticator #3/INFO]: UUID of player XJeampier is 076b2a99-8909-3132-af0c-67e9e041ac5e
+[20:24:21] [Server thread/INFO]: XJeampier joined the game
+[20:24:21] [Server thread/INFO]: XJeampier[/127.32.136.207:50665] logged in with entity id 8963 at ([world]-385.30000001192093, 21.0, -3225.699999988079)
+[20:30:11] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[20:30:11] [Server thread/INFO]: Johaanw left the game
+[20:32:11] [User Authenticator #4/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[20:32:12] [Server thread/INFO]: Johaanw joined the game
+[20:32:12] [Server thread/INFO]: Johaanw[/127.180.57.64:38693] logged in with entity id 11012 at ([world]-239.90856577001597, 69.0, -383.3618176000957)
