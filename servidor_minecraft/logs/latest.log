@@ -132,3 +132,24 @@ home/codespace/.python/current/bin/python "/workspaces/XJeampier/msx (1).py"<--[
 [20:41:57] [User Authenticator #8/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
 [20:41:58] [Server thread/INFO]: Johaanw joined the game
 [20:41:58] [Server thread/INFO]: Johaanw[/127.180.57.64:39417] logged in with entity id 13427 at ([world]-313.56153620218686, 85.10131520987476, -354.30000001192093)
+[20:43:02] [Server thread/INFO]: Johaanw issued server command: /weather clear
+[20:43:02] [Server thread/INFO]: [Johaanw: Set the weather to clear]
+[20:43:05] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
+[20:43:14] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[20:44:21] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[20:44:21] [Server thread/INFO]: Johaanw left the game
+[20:44:33] [User Authenticator #9/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[20:44:34] [Server thread/INFO]: Johaanw joined the game
+[20:44:34] [Server thread/INFO]: Johaanw[/127.180.57.64:37783] logged in with entity id 14179 at ([world]-400.10294762698123, 65.0, -3185.0630451125085)
+[20:44:49] [Server thread/INFO]: Danxc has made the advancement [Monster Hunter]
+[20:46:40] [Server thread/INFO]: Danxc has made the advancement [Voluntary Exile]
+[20:47:29] [Server thread/INFO]: Villager Villager['Farmer'/9005, uuid='2a4f50de-1d4f-4a29-87e1-45b2b38eab1c', l='ServerLevel[world]', x=-429.80, y=65.00, z=-3146.04, cpos=[-27, -197], tl=27699, v=true] died, message: 'Farmer was slain by Ravager'
+[20:47:42] [Server thread/INFO]: Villager Villager['Villager'/8998, uuid='9b59ba46-ead0-4fe5-81f4-8d53e5e3257f', l='ServerLevel[world]', x=-464.50, y=64.00, z=-3184.30, cpos=[-30, -200], tl=27963, v=true] died, message: 'Villager was shot by Pillager'
+[20:48:04] [Server thread/INFO]: Danxc has completed the challenge [Hero of the Village]
+[20:50:36] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[20:50:36] [Server thread/INFO]: Johaanw left the game
+[20:50:50] [Server thread/INFO]: XJeampier lost connection: Disconnected
+[20:50:50] [Server thread/INFO]: XJeampier left the game
+[20:51:02] [User Authenticator #10/INFO]: UUID of player XJeampier is 076b2a99-8909-3132-af0c-67e9e041ac5e
+[20:51:03] [Server thread/INFO]: XJeampier joined the game
+[20:51:03] [Server thread/INFO]: XJeampier[/127.32.136.207:41849] logged in with entity id 15197 at ([world]-418.1316414138252, 63.231644911749356, -3183.838502610175)
