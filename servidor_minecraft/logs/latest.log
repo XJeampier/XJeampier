@@ -153,3 +153,9 @@ home/codespace/.python/current/bin/python "/workspaces/XJeampier/msx (1).py"<--[
 [20:51:02] [User Authenticator #10/INFO]: UUID of player XJeampier is 076b2a99-8909-3132-af0c-67e9e041ac5e
 [20:51:03] [Server thread/INFO]: XJeampier joined the game
 [20:51:03] [Server thread/INFO]: XJeampier[/127.32.136.207:41849] logged in with entity id 15197 at ([world]-418.1316414138252, 63.231644911749356, -3183.838502610175)
+[20:53:53] [User Authenticator #11/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[20:53:54] [Server thread/INFO]: Johaanw joined the game
+[20:53:54] [Server thread/INFO]: Johaanw[/127.180.57.64:52213] logged in with entity id 15756 at ([world]-376.39307875738166, 66.0, -3184.5521480470193)
+[20:54:08] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[20:54:08] [Server thread/INFO]: Johaanw left the game
+[21:01:40] [Server thread/INFO]: Danxc has made the advancement [Stone Age]
